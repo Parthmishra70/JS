@@ -1,0 +1,54 @@
+.container{
+    background-color: cyan;
+    width: 80vw;
+    height: 150vh;
+    top: 0;
+    margin: auto;
+    padding-top: 15px;
+}
+
+.container2{
+    background-color: rgb(23, 68, 21);
+    width: 75vw;
+    height: 20vh;
+    top: 0;
+    margin: auto;
+    border-radius: 3px;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+
+}
+
+
+.imgb  img{
+height: 130px;
+border-radius: 10px;
+}
+
+.parentt{
+    position: absolute;
+    height: 130px;
+width: 230px;
+
+}
+
+.timing{
+    background-color: black;
+    color: azure;
+    position: absolute;
+  right: 2px;
+  bottom: 2px;
+  border-radius: 3px;
+
+}
+
+.textdiv{
+    font-size: large;
+    color: aliceblue;
+}
+
+.textdiv h4{
+    font-size: larger;
+}
